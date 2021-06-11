@@ -1,5 +1,5 @@
 {
-  "name": "claudiosanches/woocommerce-pagarme",
+  "name": "glauberkyves/woocommerce-pagarme",
   "description": "Gateway de pagamento Pagar.me para WooCommerce.",
   "homepage": "https://github.com/claudiosanches/woocommerce-pagarme",
   "type": "wordpress-plugin",
