@@ -340,7 +340,7 @@ msgstr ""
 
 #: includes/class-wc-pagarme-credit-card-gateway.php:107
 msgid "Pay with Credit Card"
-msgstr ""
+msgstr "Pagar com cartão de crédito"
 
 #: includes/class-wc-pagarme-credit-card-gateway.php:133
 msgid "Checkout Pagar.me"
@@ -469,16 +469,16 @@ msgid "Payment successfully made using %1$s credit card in %2$s."
 msgstr ""
 
 #: templates/credit-card/payment-form.php:17
-msgid "Card Holder Name"
+msgid "Nome escrito no cartão"
 msgstr ""
 
 #: templates/credit-card/payment-form.php:21
 msgid "Card Number"
-msgstr ""
+msgstr "Número do cartão"
 
 #: templates/credit-card/payment-form.php:26
 msgid "Expiry (MM/YY)"
-msgstr ""
+msgstr "Expiração"
 
 #: templates/credit-card/payment-form.php:27
 msgid "MM / YY"
@@ -490,11 +490,11 @@ msgstr ""
 
 #: templates/credit-card/payment-form.php:31
 msgid "CVC"
-msgstr ""
+msgstr "CVV"
 
 #: templates/credit-card/payment-form.php:38
 msgid "Please, select the number of installments"
-msgstr ""
+msgstr "Por favor, selecione a quantidade de parcelas"
 
 #: templates/credit-card/payment-form.php:45
 msgid "(total of %s)"
